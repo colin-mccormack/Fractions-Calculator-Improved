@@ -23,6 +23,6 @@ Define structures.
 ## Authors
 
 - Abdul Mannan Syed, asyed24@ocdsb.ca
-- Collin McMcormack, cmcco3@ocdsb.ca
+- Colin McMcormack, cmcco3@ocdsb.ca
 
 11/14/2021
