@@ -3,7 +3,7 @@
 ## Program Structure:
 
 ### Main File:
-Runs fnctions from various header files.
+Runs functions from various header files.
     
 ### IO.h
 Header file containing IO functions, 
